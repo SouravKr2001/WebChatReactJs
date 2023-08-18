@@ -39,7 +39,7 @@ npm start
 
 Welcome Screen : 
 User need to enter name and room id
-![Alt text](WebChatReactJs/Screenshot 2023-08-19 001848.png?raw=true "Optional Title")
+![Alt text](WebChatReactJs/chatScreen.png?raw=true "Optional Title")
 
 
 chat screen were user can use various fromatting to send message
