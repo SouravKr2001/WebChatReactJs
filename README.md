@@ -39,8 +39,8 @@ npm start
 
 Welcome Screen : 
 User need to enter name and room id
-![Alt text](/chatScreen.png?raw=true "Optional Title")
+![Alt text](/login.png?raw=true "Optional Title")
 
 
 chat screen were user can use various fromatting to send message
-![Alt text](https://drive.google.com/file/d/1C6ikFYEWekrkE7bwmCYs7QvKFkpMHUDa/view?usp=drive_link "Optional title")
+![Alt text](/chatScreen.png?raw=true "Optional Title")
